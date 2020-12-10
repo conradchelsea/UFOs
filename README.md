@@ -23,6 +23,6 @@ The analysis of the UFO sightings shows:
 - The most popular "shape" was light. 
 
 ## Challenge Overview
-While the subject matter is interesting, the data set was quite small. I think we would require more information to make any definitive calls about UFOs.
+While the subject matter is interesting, the data set was quite small. I think we would require several years of data to make any definitive calls about UFOs.
 
 ![Screen Shot 2020-12-09 at 7 15 41 PM](https://user-images.githubusercontent.com/71476009/101711098-7f2b2880-3a58-11eb-932b-ad4cbcac5b6d.png)
